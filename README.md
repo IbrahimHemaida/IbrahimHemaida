@@ -12,7 +12,7 @@ With over **13 years of experience** in the mobile industry, I specialize in bui
 * **Architecture:** Clean Architecture, SOLID Principles, Feature-driven Modularization.
 * **Leadership:** Team Management, Code Review, Mentoring, Agile Methodologies.
 * **Accessibility:** WCAG 2.1 AA, patient-facing clinical UI, cognitive and motor accessibility patterns
----
+
 ---
 
 ### 🚀 Featured Case Studies & Projects
@@ -63,17 +63,6 @@ Full-time remote roles with European-based teams.
 Specializing in accessible, patient-facing Android applications
 for healthcare and clinical environments.
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimHemaida&show_icons=true&theme=tokyonight&count_private=true" alt="Ibrahim's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimHemaida&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 <p align="left">
@@ -82,5 +71,8 @@ for healthcare and clinical environments.
   </a>
   <a href="mailto:ibraheem.hmeda@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="drive.google.com/drive/folders/0B6Hz2lQGeFQANE94TV9WUGRnZ2M">
+<img src="https://img.shields.io/badge/Portfolio-107C41?style=for-the-badge&logo=microsoftpages&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
