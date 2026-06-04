@@ -51,19 +51,12 @@ With over **13 years of experience** in the mobile industry, I specialize in bui
 
 ---
 
-## 📬 Connect with me
-
-* **LinkedIn:** [linkedin.com/in/ibrahimhemaida]
-* **GitHub Showcase:** [drive.google.com/drive/folders/0B6Hz2lQGeFQANE94TV9WUGRnZ2M]
-
----
-
-### 🌍 Open to
+## 🌍 Open to
 Full-time remote roles with European-based teams.
 Specializing in accessible, patient-facing Android applications
 for healthcare and clinical environments.
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ibrahimhemaida" target="_blank">
