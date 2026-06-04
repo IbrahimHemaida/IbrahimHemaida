@@ -11,7 +11,7 @@ With over **13 years of experience** in the mobile industry, I specialize in bui
 * **Cross-Platform:** Flutter (BLoC, Provider, Riverpod), Kotlin Multiplatform (KMM).
 * **Architecture:** Clean Architecture, SOLID Principles, Feature-driven Modularization.
 * **Leadership:** Team Management, Code Review, Mentoring, Agile Methodologies.
-
+* **Accessibility:** WCAG 2.1 AA, patient-facing clinical UI, cognitive and motor accessibility patterns
 ---
 
 ## 🏗️ Engineering Principles 
@@ -39,5 +39,7 @@ With over **13 years of experience** in the mobile industry, I specialize in bui
 
 ---
 
-### ⚡ Fun Fact
-I’m a deep-dive technical enthusiast, from mastering champion mechanics in MCOC to architecting complex fintech ecosystems.
+### 🌍 Open to
+Full-time remote roles with European-based teams.
+Specializing in accessible, patient-facing Android applications
+for healthcare and clinical environments.
