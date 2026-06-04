@@ -66,6 +66,6 @@ for healthcare and clinical environments.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://drive.google.com/drive/folders/0B6Hz2lQGeFQANE94TV9WUGRnZ2M" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-107C41?style=for-the-badge&logo=microsoftpages&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-107C41?style=for-the-badge&logo=worksandmaki&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
