@@ -18,15 +18,12 @@ A plugin that reviews Kotlin/Android and Flutter code for the problems static an
 
 AI coding assistants write code that is locally correct and globally wrong. A linter reads one file at a time, so it stays silent. This plugin encodes the review layer that sits above it.
 
-<!-- اكتب هنا وصف سطرين لكل من Android-Scope و Mobile-Architecture-Ecosystem، أو احذف السطرين لو مش جاهزين للعرض -->
 
 ### [Android-Scope](https://github.com/IbrahimHemaida/Android-Scope)
 
-*(وصف قصير)*
 
 ### [Mobile-Architecture-Ecosystem](https://github.com/IbrahimHemaida/Mobile-Architecture-Ecosystem)
 
-*(وصف قصير)*
 
 ---
 
