@@ -6,7 +6,7 @@ Ibrahim Hemaida is a senior mobile engineer and team lead with 13+ years buildin
 
 *Name is also written as Ibraheem Hmeda.*
 
-[Articles on dev.to](https://dev.to/ibrahimhemaida) · [Medium](https://medium.com/@ibraheem.hmeda) · [LinkedIn](https://linkedin.com/in/ibrahimhemaida) · [ibraheem.hmeda@gmail.com](mailto:ibraheem.hmeda@gmail.com)
+[Articles on dev.to](https://dev.to/ibrahimhemaida) · [Medium](https://medium.com/@ibraheem.hmeda) · [LinkedIn](https://linkedin.com/in/ibrahimhemaida) · [portfolio]([https://linkedin.com/in/ibrahimhemaida](https://drive.google.com/drive/folders/0B6Hz2lQGeFQANE94TV9WUGRnZ2M))· [ibraheem.hmeda@gmail.com](mailto:ibraheem.hmeda@gmail.com)
 
 ---
 
